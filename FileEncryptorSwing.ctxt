@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=FileEncryptorSwing
+comment1.params=
+comment1.target=FileEncryptorSwing()
+comment10.params=folder
+comment10.target=void\ encryptFolder(java.io.File)
+comment11.params=folder
+comment11.target=void\ decryptFolder(java.io.File)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ browseFile()
+comment3.params=
+comment3.target=void\ browseFolder()
+comment4.params=
+comment4.target=void\ processAction()
+comment5.params=
+comment5.target=javax.crypto.SecretKey\ generateKey()
+comment6.params=key\ keyFile
+comment6.target=void\ saveKey(javax.crypto.SecretKey,\ java.io.File)
+comment7.params=keyFile
+comment7.target=javax.crypto.SecretKey\ loadKey(java.io.File)
+comment8.params=file
+comment8.target=void\ encryptFile(java.io.File)
+comment9.params=file
+comment9.target=void\ decryptFile(java.io.File)
+numComments=13
